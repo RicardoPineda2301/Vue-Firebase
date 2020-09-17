@@ -5,22 +5,22 @@
 ## Dependencias
 
 ``` bash
-# install dependencies
+# instalar dependencias
 npm install
 
-# serve with hot reload at localhost:8080
+# servir a localhost:8080
 npm run dev
 
-# build for production with minification
+# armar para produccion
 npm run build
 
-# build for production and view the bundle analyzer report
+# armar para produccion y ver el analizador de paquetes
 npm run build --report
 
-# run unit tests
+# pruebas de unidad
 npm run unit
 
-# run all tests
+# todas las pruebas
 npm test
 
 # firebase
@@ -29,4 +29,4 @@ npm install firebase
 npm install vuefire
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Para una guia detallada de como funciona todo, vea la siguiente [guia](http://vuejs-templates.github.io/webpack/) y la  [documentacion para vue-loader](http://vuejs.github.io/vue-loader).
